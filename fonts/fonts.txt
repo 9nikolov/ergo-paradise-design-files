@@ -1,0 +1,20 @@
+Base font size 12px
+
+Sizes are generated using the Golden Ratio, rounded to the nearest whole number
+10.4 -> 10
+10.5 -> 11
+
+
+133
+
+82
+
+51
+
+31
+
+24 --- Added by necessity
+
+19
+
+12
